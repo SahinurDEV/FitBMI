@@ -6,7 +6,7 @@ welcome — bug fixes, features, docs, translations and design.
 ## Getting started
 
 ```bash
-git clone https://github.com/devSahinur/FitBMI.git
+git clone https://github.com/SahinurDEV/FitBMI.git
 cd FitBMI
 npm install --legacy-peer-deps
 npm start          # open in Expo Go (SDK 54)

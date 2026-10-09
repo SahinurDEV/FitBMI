@@ -15,7 +15,7 @@ stays on your device.**
 [![License: MIT](https://img.shields.io/badge/License-MIT-00C897)](./LICENSE)
 [![PRs welcome](https://img.shields.io/badge/PRs-welcome-00A8FF)](./CONTRIBUTING.md)
 
-[**Live landing page**](https://devsahinur.github.io/FitBMI/) ·
+[**Live landing page**](https://sahinurdev.github.io/FitBMI/) ·
 [Privacy](docs/privacy.html) · [Publishing guide](./PUBLISHING.md) ·
 [Contributing](./CONTRIBUTING.md)
 
@@ -64,7 +64,7 @@ expo-sensors · OpenRouter (AI) · Lucide icons · Google Fonts.
 ## 🚀 Quick Start
 
 ```bash
-git clone https://github.com/devSahinur/FitBMI.git
+git clone https://github.com/SahinurDEV/FitBMI.git
 cd FitBMI
 npm install --legacy-peer-deps
 
